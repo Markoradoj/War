@@ -2,7 +2,7 @@
 War card game in C
 
 
-/*
+
 * At the beginning of the program the user introduces three options, 1. start game 2, load game
 * 3. exit program, When I press 1, it will prompt to enter 2 to 4 players, if I type it out of the
 * integer bounds, then it will trigger an error. After I type the correct amount, we get to see the
@@ -17,4 +17,4 @@ War card game in C
 * 13 rounds, after that the flag will check which player has the highest amount of points scored.
 * For loading the game, the way its being updated is that it uses a pointer to ensure that we are getting
 * its true valuefo everything
-*/
+  
